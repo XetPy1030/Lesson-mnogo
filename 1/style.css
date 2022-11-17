@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.btn {
+  background-color: rgb(240, 207, 164);
+  padding: 10px 20px;
+}
+.btn__add {
+  background-color: rgb(240, 207, 164);
+  padding: 10px 20px;
+  position: relative;
+}
+.done {
+  background-color: antiquewhite;
+  color: rgb(168, 126, 74);
+}
